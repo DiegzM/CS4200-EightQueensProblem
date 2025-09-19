@@ -1,8 +1,9 @@
-#CS4200 Eight Queens Problem
-##Overview
+# CS4200 Eight Queens Problem
+## Overview
 An interactive Eight Queens Problem solver using Greedy Best First Search (GBFS), programmed with AI assistance.
-##How to Run
-```# clone the repo
+## How to Run
+```
+# clone the repo
 git clone https://github.com/DiegzM/CS4200-EightQueensProblem.git
 cd CS4200-EightQueensProblem
 
